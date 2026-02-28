@@ -1,6 +1,6 @@
 # Esp32-2.4GHz-Ble-WiFi-jammer
 
-# This project is only for Educational purpose and do not use it publicly 
+# This project is made only for Educational purpose and do not use it in unethically .
 
 ![IMG_0343](https://github.com/user-attachments/assets/80a3225b-56b1-4104-8447-73b3478cd0fc)
 
